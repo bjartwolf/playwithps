@@ -1,0 +1,18 @@
+{
+  "name": "playwithps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pulp": "pulp",
+    "build": "pulp build",
+    "init": "pulp init",
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pulp": "^4.5.0",
+    "purescript": "^0.7.5"
+  }
+}
