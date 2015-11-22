@@ -1,3 +1,7 @@
 npm install
 
-npm 
+npm run installdeps
+
+npm run psci
+
+Euler1.answer
