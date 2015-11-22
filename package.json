@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "pulp test",
     "pulp": "pulp",
     "build": "pulp build",
     "init": "pulp init",
-    "installdeps": "pulp dep i purescript-lists --save",
+    "postinstall": "pulp dep i purescript-lists --save",
     "psci": "pulp psci"
   },
   "author": "",
