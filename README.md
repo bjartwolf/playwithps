@@ -1,9 +1,12 @@
+
+# Install all dependencies, also bower stuff
 npm install
 
-npm run installdeps
-
-npm run psci
-
+# Run the test....
 npm run test 
 
+# Start interactive mode
+npm run psci
+
+# In interactive mode
 Euler1.answer
