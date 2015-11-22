@@ -8,6 +8,8 @@
     "pulp": "pulp",
     "build": "pulp build",
     "init": "pulp init",
+    "installdeps": "pulp dep i purescript-lists --save",
+    "psci": "pulp psci"
   },
   "author": "",
   "license": "ISC",
